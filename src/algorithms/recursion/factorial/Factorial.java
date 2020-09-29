@@ -1,7 +1,7 @@
 package algorithms.recursion.factorial;
 
 // Write two functions that finds the factorial of any number.
-// One should use recursive, the other should just use a for loop
+// One should use recursive, the other should just use for loop
 
 //ex: 5! = 5 * 4 * 3 * 2 * 1
 // or 5! = 5 * 4! and so on
